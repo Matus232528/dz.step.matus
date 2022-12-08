@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background-color: aqua;
+}
+div{
+    display: flex;
+    justify-content: center;
+    color: black;
+    align-items: center;
+    height: 100%;
+    
+}
